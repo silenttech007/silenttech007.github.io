@@ -3,3 +3,8 @@ title: SilentTech's homepage
 description: Bookmark this to keep an eye on my project updates!
 layout: page
 permalink: /privacy.html
+
+layout: post
+title: "Privacy Terms"
+date: 2025-11-29 12:44:23 -0000
+categories: CATEGORY-1 CATEGORY-2
